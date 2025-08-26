@@ -1,16 +1,68 @@
-# firechat
+# FireChat 🔥💬  
 
-A new Flutter project.
+by Drona Bopche
+Assignment by priyaquibtpvtlt  
 
-## Getting Started
+<div align="center">
 
-This project is a starting point for a Flutter application.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
-A few resources to get you started if this is your first Flutter project:
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features  
+
+### 💬 Real-time Messaging  
+- Instant message delivery using Firebase Firestore  
+- Organized chat threads between users  
+- Timestamped messages for conversation tracking  
+
+### 👥 User Presence System  
+- **Online/Offline Status**: Visual indicators show when users are active  
+- **Last Seen Tracking**: Displays when users were last active  
+- **Automatic Status Updates**: Status changes based on app lifecycle events  
+
+### ✅ Message Status Indicators  
+- **Single Tick** : Message sent to Firebase  
+- **Double Grey Ticks** : Message delivered to recipient device  
+- **Double Blue Ticks** : Message seen by recipient  
+
+### 🎨 Beautiful WhatsApp-inspired UI  
+- Modern gradient backgrounds  
+- Intuitive chat bubbles with different colors for sent/received messages  
+- Professional navigation and layout  
+
+### 📱 Responsive Design  
+- Optimized for both iOS and Android  
+- Adaptive layouts for different screen sizes  
+- Smooth animations and transitions  
+
+---
+
+## 🛠️ Technology Stack  
+
+- **Frontend**: Flutter with Dart  
+- **Backend**: Firebase Firestore  
+- **Authentication**: Firebase Authentication (ready for implementation)  
+- **State Management**: Built-in Flutter state management  
+- **Real-time Updates**: Firebase Streams  
+
+---
+
+## 🚀 Installation  
+
+### Prerequisites  
+- Flutter SDK (latest version)  
+- Firebase project setup  
+- Android Studio/Xcode for emulation  
+
+### Setup Steps  
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/yourusername/firechat.git
+   cd firechat
+
