@@ -52,6 +52,20 @@ Assignment by priyaquibtpvtlt
 
 ---
 
+## 📸 Screenshots  
+
+### Home Screen  
+![Home](images/homepage.png)  
+
+### Chat Screen  
+![Chat](images/chatpage.png)  
+
+### both together Screen  
+![working](images/ss2.png)  
+
+--
+
+
 ## 🚀 Installation  
 
 ### Prerequisites  
